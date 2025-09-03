@@ -1,7 +1,7 @@
 [
     {
         "id": "athena_assist_agent_v1",
-        "name": "Athena [Assist]",
+        "name": "Athena [Assist] - ABI",
         "description": "A digital assistant that breaks down complex problems into simple steps with clear, actionable tasks.",
         "icon": "Landmark",
         "model": "gpt-4o",
